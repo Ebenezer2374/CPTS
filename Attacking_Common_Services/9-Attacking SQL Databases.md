@@ -143,7 +143,7 @@ Gatekeeper: secure_file_priv controls LOAD DATA / SELECT…INTO OUTFILE / LOAD_F
 Value 	Effect
 Empty 	No restriction — insecure
 A directory path 	Import/export limited to that directory
-NULL 	Import/export disabled entirely
+NULL 	Import/export disabled entirelyDo
 
 Check it:
 
